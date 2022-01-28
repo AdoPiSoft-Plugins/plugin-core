@@ -243,3 +243,6 @@ See example below:
   }
 }
 ```
+
+Here's a working Plugin source codes:
+https://github.com/AdoPiSoft-Plugins/charging-station/tree/development
