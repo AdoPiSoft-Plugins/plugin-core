@@ -244,5 +244,7 @@ See example below:
 }
 ```
 
-Here's a working Plugin source codes:
-https://github.com/AdoPiSoft-Plugins/charging-station/tree/development
+
+Here's a sample working plugin source codes:
+[Charging Station Plugin](https://github.com/AdoPiSoft-Plugins/charging-station/tree/development)
+
