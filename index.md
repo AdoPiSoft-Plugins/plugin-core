@@ -78,6 +78,9 @@ Sample usage:
 
 ### Available Core Modules
 Core source codes are not encrypted and are readily available if you need them.
+
+Core files are located in **ROOT_DIR/release/@adopisoft/core/**
+
 Please see example usage below:
 ```
   var application = require('@adopisoft/core/config/application.js')
