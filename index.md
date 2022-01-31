@@ -247,6 +247,8 @@ See example below:
 }
 ```
 
+Set the proper `metadata -> admin -> navigation` according to your preferred plugin menu position in the admin sidebar menus.
+
 
 Here's a sample working plugin source codes:
 [Charging Station Plugin](https://github.com/AdoPiSoft-Plugins/charging-station/tree/development)
