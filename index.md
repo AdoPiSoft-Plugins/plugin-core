@@ -19,6 +19,8 @@ Manage your bandwidth, users and rates anytime, anywhere with our remote managem
               > controllers
               router.js
               index.js
+            > config
+                - default ini config files here -
             > assets
               > scripts
                 > admin
